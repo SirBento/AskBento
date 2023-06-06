@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-xxxhdpi/button.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/rounded_corners.xml" value="0.12" />
+        <entry key="app/src/main/res/drawable/sender_messeges_layout.xml" value="0.1135" />
+        <entry key="app/src/main/res/layout-large/activity_forgot_password.xml" value="0.585" />
+        <entry key="app/src/main/res/layout-large/activity_login.xml" value="0.585" />
+        <entry key="app/src/main/res/layout-large/activity_main.xml" value="0.46125" />
+        <entry key="app/src/main/res/layout-large/activity_sign_up.xml" value="0.46125" />
+        <entry key="app/src/main/res/layout-large/activity_splash_screen.xml" value="0.37104072398190047" />
+        <entry key="app/src/main/res/layout-large/chart_item.xml" value="0.46125" />
+        <entry key="app/src/main/res/layout-normal/activity_login.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout-normal/activity_main.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout-normal/activity_sign_up.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout-normal/activity_splash_screen.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout-normal/chart_item.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout-small/activity_forgot_password.xml" value="0.3611111111111111" />
+        <entry key="app/src/main/res/layout-small/activity_login.xml" value="0.5083682008368201" />
+        <entry key="app/src/main/res/layout-small/activity_main.xml" value="0.22510822510822512" />
+        <entry key="app/src/main/res/layout-small/activity_sign_up.xml" value="0.5083682008368201" />
+        <entry key="app/src/main/res/layout-small/activity_splash_screen.xml" value="0.36619718309859156" />
+        <entry key="app/src/main/res/layout-small/chart_item.xml" value="0.5083682008368201" />
+        <entry key="app/src/main/res/layout-xlarge/activity_forgot_password.xml" value="0.145748987854251" />
+        <entry key="app/src/main/res/layout-xlarge/activity_login.xml" value="0.144140625" />
+        <entry key="app/src/main/res/layout-xlarge/activity_main.xml" value="0.144140625" />
+        <entry key="app/src/main/res/layout-xlarge/activity_sign_up.xml" value="0.144140625" />
+        <entry key="app/src/main/res/layout-xlarge/activity_splash_screen.xml" value="0.144140625" />
+        <entry key="app/src/main/res/layout-xlarge/chart_item.xml" value="0.144140625" />
+        <entry key="app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2520775623268698" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.11" />
+        <entry key="app/src/main/res/layout/chart_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

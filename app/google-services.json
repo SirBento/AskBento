@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481320457675",
+    "project_id": "askbento-73164",
+    "storage_bucket": "askbento-73164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481320457675:android:0ab95dc43f3e92e64cd24e",
+        "android_client_info": {
+          "package_name": "com.example.askbento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481320457675-ameshuapji9unqq2pligf1d6rm4eq4q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATfDInp0-Juj6mIJOvV9YddVmvJTlqXFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481320457675-ameshuapji9unqq2pligf1d6rm4eq4q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

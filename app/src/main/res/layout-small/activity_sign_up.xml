@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignUp"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:background="@drawable/hispc7">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:fontFamily="serif-monospace"
+            android:text="Sign Up"
+            android:textColor="#fcb1b1"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <EditText
+        android:id="@+id/signup_first_Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="First Name"
+        android:minHeight="30dp"
+        android:textSize="14sp"
+        android:backgroundTintMode="screen"
+        android:textColorHint="#f0f696"
+        android:inputType="text"
+        android:textColor="@color/material"
+        android:fontFamily="serif-monospace"/>
+
+    <EditText
+        android:id="@+id/signup_sur_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Surname"
+        android:backgroundTintMode="screen"
+        android:textColorHint="#f0f696"
+        android:inputType="text"
+        android:minHeight="30dp"
+        android:textSize="14sp"
+        android:textColor="@color/material"
+        android:fontFamily="serif-monospace"
+        />
+
+    <EditText
+        android:id="@+id/signup_email_Add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:backgroundTintMode="screen"
+        android:textColorHint="#f0f696"
+        android:minHeight="30dp"
+        android:textSize="14sp"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/material"
+        android:fontFamily="serif-monospace"/>
+
+    <EditText
+        android:id="@+id/signup_Pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:backgroundTintMode="screen"
+        android:textColorHint="#f0f696"
+        android:minHeight="30dp"
+        android:textSize="14sp"
+        android:textColor="@color/material"
+        android:fontFamily="serif-monospace"
+        />
+
+    <EditText
+        android:id="@+id/signup_Pass2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Re-enter Password"
+        android:inputType="textPassword"
+        android:backgroundTintMode="screen"
+        android:textColorHint="#f0f696"
+        android:textColor="@color/material"
+        android:fontFamily="serif-monospace"
+        android:layout_marginTop="5dp"
+        android:minHeight="30dp"
+        android:textSize="14sp"
+        />
+
+
+        <Button
+            android:id="@+id/btnRegister"
+            android:layout_width="154dp"
+            android:layout_height="36dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button"
+            android:fontFamily="serif-monospace"
+            android:padding="8dp"
+            android:text="Register"
+            android:textAlignment="center"
+            android:textColor="#fcb1b1"
+            android:textSize="15sp"
+
+            />
+    </LinearLayout>
+
+</ScrollView>
